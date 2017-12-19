@@ -3,7 +3,6 @@ const buildPath = './build';
 const src = 'src';
 const testSrc = 'testSrc';
 const behavior = 'behavior-tests';
-
 const settings = {
   srcPath: `./${src}`,
   testPath: `./${testSrc}`,
