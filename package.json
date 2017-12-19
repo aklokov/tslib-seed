@@ -17,12 +17,15 @@
   },
   "devDependencies": {
     "@types/chai": "^4.0.10",
+    "@types/cucumber": "^2.1.0",
     "@types/mocha": "^2.2.44",
     "@types/node": "^8.5.1",
     "chai": "^4.1.2",
     "cross-spawn": "^5.1.0",
+    "cucumber": "^3.2.0",
     "fs-extra": "^5.0.0",
     "gulp": "^3.9.1",
+    "gulp-cucumber": "0.0.23",
     "gulp-mocha": "3.0.1",
     "gulp-tslint": "^8.1.2",
     "gulp-watch": "^4.3.11",
@@ -30,5 +33,6 @@
     "tslint": "^5.8.0",
     "typescript": "^2.6.2",
     "typescript-reexport-generator": "^1.1.2"
-  }
+  },
+  "dependencies": {}
 }
