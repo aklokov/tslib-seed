@@ -1,2 +1,2 @@
 git fetch seed
-git merge seed/master
+git merge seed/cucumber
