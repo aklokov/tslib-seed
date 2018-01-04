@@ -1,8 +1,8 @@
-const buildPath = './build';
+const buildPath = "./build";
 
-const src = 'src';
-const testSrc = 'testSrc';
-const behavior = 'behavior-tests';
+const src = "src";
+const testSrc = "testSrc";
+const behavior = "behavior-tests";
 const settings = {
   srcPath: `./${src}`,
   testPath: `./${testSrc}`,

@@ -1,6 +1,6 @@
-import { Storage } from './storage';
+import { Storage } from "./storage";
 
-import { defineSupportCode, Hooks } from 'cucumber';
+import { defineSupportCode, Hooks } from "cucumber";
 
 export interface IWorld {
   store: Storage;
